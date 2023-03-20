@@ -1,3 +1,4 @@
+![]
 <h1 align="center">Hi 👋, I'm Cem</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,8 +7,9 @@
 - 🌱 I’m currently learning **Node, React**
 
 - 📫 How to reach me **https://linktr.ee/CemAkan**
-
+![]
 <h3 align="left">Connect with me:</h3>
+![]
 <p align="left">
 </p>
 
@@ -16,11 +18,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cema"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cema" /></a></p><br><br>
-
+![]
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=CemAkan&theme=dark&hide_border=false)<br/>
+(https://github-readme-streak-stats.herokuapp.com/?user=CemAkan&theme=dark&hide_border=false)<br/>
 
-
+![]
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
