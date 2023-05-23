@@ -21,7 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CemAkan&theme=dark&hide_border=false)<br/>
 
 
-### ✍️ Random Dev Quote
+### ✍️  A Nice Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Support:</h3>
