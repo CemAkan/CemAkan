@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cem</h1>
 <h3 align="center">Backend developer. Go lover, CS student.</h3>
 
-- 📫 How to reach me **https://linktr.ee/CemAkan**
+- 📫 How to reach me **https://unit.link/cem**
 
 
 <p align="left">
