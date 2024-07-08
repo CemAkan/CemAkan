@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cem</h1>
 <h3 align="center">Backend developer. Go lover, CS student</h3>
-
+<br/>
 ---
 
 <h2 align="left">🔧 Languages and Tools:</h2>
@@ -10,8 +10,7 @@
 <br/>
 
 <h2 align="left">🎶 Recently Playing:</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qomsz4oaxgbojreu34hwgpxh54&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qomsz4oaxgbojreu34hwgpxh54&redirect=true)<br/>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qomsz4oaxgbojreu34hwgpxh54&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qomsz4oaxgbojreu34hwgpxh54&redirect=true)<br/>
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
