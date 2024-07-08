@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cem</h1>
-<h3 align="center">*Backend developer. Go lover, CS student*</h3>
+<h3 align="center">Backend developer. Go lover, CS student</h3>
+
+<br/>
+
+---
 
 <h2 align="left">🔧 Languages and Tools:</h2>
 
