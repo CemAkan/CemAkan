@@ -3,10 +3,9 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=CemAkan&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CemAkan&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cema"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cema" /></a></p><br><br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CemAkan&icon=0&color=0)](https://visitcount.itsvg.in)
