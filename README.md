@@ -1,11 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm Cem</h1>
+  <h3>Backend dev. Go lover, CS student</h3>
   
   <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
   
-  <p>
-    Backend dev. Go lover, CS student
-  </p>
   
   <br>
 </div>
@@ -72,6 +70,6 @@
   
   ---
   
-  <p>💙 Thanks for visiting. Feel free to explore my repositories and reach out for collaboration</p>
+  <p>💙 Thanks for visiting! Feel free to explore my repositories and reach out for collaboration</p>
   
 </div>
