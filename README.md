@@ -5,7 +5,7 @@
   <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
   
   
-  <br>
+  <br><br>
 </div>
 
 <div align="center">
