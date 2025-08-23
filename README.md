@@ -39,20 +39,8 @@
   
   [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cemakan.com.tr)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cemakan)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cemakan)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cemmakan)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cemmakan@gmail.com)
-</div>
-
----
-
-<div align="center">
-  <h3>💡 About Me</h3>
-  <p>
-    🎯 Backend developer with experience in microservices architecture<br>
-    🌍 Community builder - founded Yazılım Çukurova in Adana<br>
-    📚 Passionate about clean code and scalable systems<br>
-    🌱 Currently exploring AI/ML technologies
-  </p>
 </div>
 
 ---
