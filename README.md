@@ -27,15 +27,5 @@
 ---
 
 <div align="center">
-  <h3>☕ Support My Work</h3>
-  
-  <a href="https://www.buymeacoffee.com/cema">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
----
-
-<div align="center">
   <p>💙 Thanks for visiting! Feel free to explore my repositories and reach out for collaboration</p>
 </div>
