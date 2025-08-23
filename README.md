@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi 👋, I'm Cem</h1>
-  <h3>Backend dev. Go lover, CS student</h3>
   
   <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
   
