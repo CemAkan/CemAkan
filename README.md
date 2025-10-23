@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Hi 👋, I'm Cem</h1>
+  <img src="./header1.png" alt="header"/>
   <h3>Backend dev. Go lover, CS student</h3>
   
-  <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
+  
 </div>
 
 ---
@@ -27,5 +27,6 @@
 ---
 
 <div align="center">
-  <p>💙 Thanks for visiting! Feel free to explore my repositories and reach out for collaboration</p>
+  <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
+  <p>💙 Thanks for visiting <3 Feel free to explore my repositories and reach out for collaboration</p>
 </div>
