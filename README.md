@@ -6,6 +6,7 @@
 
 
   <h3>📊 GitHub Stats</h3>
+  <br />
 
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CemAkan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
@@ -15,6 +16,7 @@
 
 
   <h3>📫 Connect With Me</h3>
+  <br />
   
   [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cemakan.com.tr)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cemakan)
@@ -26,7 +28,7 @@
 
 
   <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
-  <br>
+  <br />
   
   <p>💙 Thanks for visiting <3 Feel free to explore my repositories and reach out for collaboration</p>
 </div>
