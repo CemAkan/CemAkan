@@ -7,7 +7,7 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CemAkan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [(https://github-readme-streak-stats.herokuapp.com?user=CemAkan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 ---
@@ -25,6 +25,7 @@
 
 <div align="center">
   <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
+  <br>
   
   <p>💙 Thanks for visiting <3 Feel free to explore my repositories and reach out for collaboration</p>
 </div>
