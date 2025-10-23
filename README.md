@@ -30,5 +30,5 @@
   <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
   <br />
   <br />
-  <p>💙 Thanks for visiting <3 Feel free to explore my repositories and reach out for collaboration</p>
+  <p>Thanks for visiting💙  Feel free to explore my repositories and reach out for collaboration</p>
 </div>
