@@ -11,7 +11,9 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CemAkan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br />
+
 ---
+
 <br />
 
   <h3>📫 Connect With Me</h3>
@@ -23,6 +25,7 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cemmakan@gmail.com)
 
 <br />
+
 ---
 
 <br />
