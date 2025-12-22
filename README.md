@@ -3,14 +3,6 @@
 
 
 ---
-  <br />
-  <h3>📊 GitHub Stats</h3>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CemAkan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)]
-  
-  <br />
-
----
 
   <br />
 
