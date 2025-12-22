@@ -5,9 +5,6 @@
 
 
   <br />
-
-  <h3>📫 Connect With Me</h3>
-  <br />
   
   [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cemakan.com.tr)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cemakan)
