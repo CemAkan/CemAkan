@@ -5,6 +5,7 @@
 
 
   <br />
+  <br />
   
   [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cemakan.com.tr)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cemakan)
@@ -15,7 +16,7 @@
 
 ---
 
-<br />
+
   <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
   <br />
   <br />
