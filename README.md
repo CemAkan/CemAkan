@@ -13,11 +13,4 @@
 
 <br />
 
----
-
-
-  <img src="./cool_cat.jpg" alt="Cool Cat" width="200" style="border-radius: 50%;" />
-  <br />
-  <br />
-  <p>Thanks for visiting <3</p>
 </div>
